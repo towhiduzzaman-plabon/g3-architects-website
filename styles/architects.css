@@ -241,4 +241,10 @@ main > section{
         margin-left: 20px;
 }
 }
+/* Footer Styles */
+footer {
+    background-color: #FFF4E7;
+    padding: 20px 0;
+    text-align: center;
+}
 
